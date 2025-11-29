@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: "Arimo", sans-serif; /* weight: 400 to 700*/
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/*
+font-family: "Montserrat", sans-serif;
+font-family: "Comfortaa", sans-serif; weight: 300 to 700
+font-family: "Lexend", sans-serif;
+*/
