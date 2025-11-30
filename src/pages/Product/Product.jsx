@@ -2,7 +2,7 @@ import style from './Product.module.scss';
 
 const Product = () => {
   return (
-    <div>Product</div>
+    <div className={style.productContainer}>Product</div>
   )
 }
 
